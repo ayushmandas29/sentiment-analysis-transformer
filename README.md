@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayushmandas29/sentiment-analysis-transformer/blob/main/Sentiment_Analysis_Pipeline.ipynb)
+
 Sentiment Analysis using HuggingFace Transformers
 
 This project performs sentiment analysis using a pre-trained Transformer model (DistilBERT) through HuggingFace’s pipeline("sentiment-analysis").
