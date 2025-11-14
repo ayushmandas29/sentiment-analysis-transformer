@@ -26,7 +26,7 @@ Project Structure:
 ├── Sentiment_Analysis_Pipeline.ipynb   # Main notebook
 └── README.md                            # Documentation
 
-🛠️ Technologies Used
+Technologies Used:
 
 Python
 
